@@ -1,12 +1,12 @@
-agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-moapa-band-of-paiute-indians-of-the-moap-canal-and-intervention-historian
-  name: Moapa Band of Paiute Indians of the Moap Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-moapa-band-of-paiute-indians-of-the-moap-canal-and-intervention-historian.yaml
-total_agents: 2
+# Remediated scaffold configuration — Us Nv Moapa Band of Paiute Indians of the Moap
+status: PENDING_LEGAL_REVIEW
+campaign: US_NV_MOAPA_BAND_OF_PAIUTE_INDIANS_OF_THE_MOAP
+notice: >-
+  Remediated scaffold. Unverified template content asserting fabricated claims,
+  dollar amounts, foreign judgments, or VERIFIED status was removed.
+governance:
+  verification_status: PENDING_LEGAL_REVIEW
+  legal_review_status: PENDING_LEGAL_REVIEW
+  valuation_status: TBD
+  evidence_mapping_status: AUTO_CANDIDATE_PENDING_REVIEW
+  verification_rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT
